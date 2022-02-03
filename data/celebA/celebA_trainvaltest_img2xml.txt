@@ -1,0 +1,1 @@
+/home/user/Database/celebA/celebA_trainvaltest_img2xml.txt

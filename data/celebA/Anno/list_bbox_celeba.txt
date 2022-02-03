@@ -1,0 +1,1 @@
+/home/user/Database/celebA/Anno/list_bbox_celeba.txt

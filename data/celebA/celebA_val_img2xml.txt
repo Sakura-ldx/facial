@@ -1,0 +1,1 @@
+/home/user/Database/celebA/celebA_val_img2xml.txt

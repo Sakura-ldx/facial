@@ -1,0 +1,1 @@
+/home/user/Database/celebA/Anno/list_landmarks_align_celeba.txt
